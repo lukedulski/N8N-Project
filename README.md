@@ -1,8 +1,8 @@
 your-repository/
-├── index.html          # Homepage (required)
-├── privacy.html        # Privacy Policy (required for OAuth)
-├── terms.html          # Terms of Service (recommended)
-├── contact.html        # Contact page (optional)
-├── oauth-success.html  # OAuth callback success page (optional)
+├── index.html          # Homepage
+├── privacy.html        # Privacy Policy
+├── terms.html          # Terms of Service
+├── contact.html        # Contact page
+├── oauth-success.html  # OAuth callback success page
 ├── README.md          # Repository description
-└── _config.yml        # GitHub Pages configuration (optional)
+└── _config.yml        # GitHub Pages configuration
